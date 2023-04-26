@@ -18,5 +18,5 @@ Lenguajes:<br>
 :snake: Python<br>
 :coffee: Java<br>
 :beginner: JavaScript<br>
-<img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" width="25px" style="display: inline-block;"/>
+<img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" width="25px" style="display: inline-block;"/> SQL
 
