@@ -13,7 +13,7 @@ Integrantes:<br>
 :womens: Peña, Sandra<br>
 :mens: Rivarola, Jonathan<br>
 :mens: Vaccarezza, Luis<br>
-<br>
+<br><br><br>
 Lenguajes:<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" width="25px" style="display: inline-block;"/> Python<br>
 <img src="https://img-blog.csdnimg.cn/20200227095030504.png" width="25px" style="display: inline-block;"/> Java<br>
