@@ -3,7 +3,7 @@ Tercer Semestre 2023 - GRUPO LOS CARPINCHOS
 <br><br>
 <img width="400" src="https://github.com/CodeSystem2022/LosCarpinchos_TercerSemestre/blob/main/Imagen%20de%20WhatsApp%202023-04-18%20a%20las%2021.10.40.jpg?raw=true"/><br>
 <br>
-Integrantes:<br>
+<h3>Integrantes:</h3>
 :mens: Amaro, Julio Gabriel<br>
 :womens: Cualina, Noelia Grisel<br>
 :womens: Godoy, María del C.<br>
