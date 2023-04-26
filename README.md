@@ -18,5 +18,5 @@ Lenguajes:<br>
 :snake: Python<br>
 :coffee: Java<br>
 :beginner: JavaScript<br>
-<img src="https://w7.pngwing.com/pngs/974/370/png-transparent-oracle-sql-developer-oracle-database-microsoft-sql-server-oracle-corporation-developer-miscellaneous-brand-software-developer.png" width="30px" style="display: inline-block;"/>
+<img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" width="30px" style="display: inline-block;"/>
 
