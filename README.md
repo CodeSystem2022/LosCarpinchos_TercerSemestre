@@ -15,7 +15,7 @@ Integrantes:<br>
 :mens: Vaccarezza, Luis<br>
 <br>
 Lenguajes:<br>
-:snake: Python<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" width="25px" style="display: inline-block;"/> Python<br>
 :coffee: Java<br>
 :beginner: JavaScript<br>
 <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" width="25px" style="display: inline-block;"/> SQL
