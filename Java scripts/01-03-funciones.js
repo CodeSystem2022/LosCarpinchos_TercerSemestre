@@ -78,14 +78,14 @@ console.log(k);
 // Paso por Referencia.
 const persona = { // Definimos un Objeto.
     // Definimos atributos y características.
-    nombre: 'Gustavo', 
-    apellido: 'Jaime'    
+    nombre: 'Liliana', 
+    apellido: 'Nievas'    
 }
 console.log(persona);
 
 function cambiarValorObjeto(p1){
-    p1.nombre = 'Guss';
-    p1.apellido = 'James';
+    p1.nombre = 'Lili';
+    p1.apellido = 'Cara';
 }
 cambiarValorObjeto(persona);
 console.log(persona);
