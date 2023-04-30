@@ -1,7 +1,7 @@
 # LosCarpinchos_TercerSemestre
 Tercer Semestre 2023 - GRUPO LOS CARPINCHOS
 <br><br>
-<img width="400" src="https://github.com/CodeSystem2022/LosCarpinchos_TercerSemestre/blob/main/logo.jpg?raw=true"/>
+<img width="400" src="https://github.com/CodeSystem2022/LosCarpinchos_TercerSemestre/blob/main/logo.jpg"/>
 <br>
 <br>
 <b>Integrantes:</b><br><br>
