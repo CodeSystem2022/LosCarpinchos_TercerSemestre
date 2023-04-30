@@ -1,0 +1,24 @@
+package enumeraciones;
+
+public enum Continentes {
+    AFRICA(54, "1 320 000 000 millones"),
+    EUROPA(50, "747.747.395 millones"),
+    ASIA(51, "4 598 168 800 millones"),
+    AMERICA(35, "1 036 900 579 millones"),
+    OCEANIA(15, "8 542 499 millones");
+    
+    private final int paises;
+    private String habitantes;
+    
+    Continentes(int paises, String habitantes){
+    this.paises = paises;
+    this.habitantes = habitantes;
+}
+    //Metodo Get
+    public int getPaises(){
+        return this.paises;
+ }
+    public String getHabitantes(){
+        return this.habitantes;
+    }
+}
