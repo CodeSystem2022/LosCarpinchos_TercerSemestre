@@ -82,7 +82,7 @@ console.log(personaString);
 console.log('Acá ya estamos usando gets');
 console.log(persona.nombreEdad);
 
-console.log('get y setpara idio');
+console.log('get y set para idioma');
 persona.lang='en';
 console.log(persona.lang);
 
