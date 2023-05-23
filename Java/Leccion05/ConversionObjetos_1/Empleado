@@ -1,0 +1,36 @@
+package domain;
+// CLASE PADRE
+public class Empleado {
+    protected String nombre; // ATRIBUTO
+    protected double sueldo; // ATRIBUTO
+    // CONSTRUCTOS C/ATRIBUTOS
+    public Empleado(String nombre, double sueldo) { 
+        this.nombre = nombre;
+        this.sueldo = sueldo;
+    }
+    // METODO PARA LA SOBREESCRITURA
+    public String obtenerDetalles() {
+        return "Nombre: " + this.nombre + ", Sueldo: " + this.sueldo;
+    }
+    // METODO GET
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public double getSueldo() {
+        return sueldo;
+    }
+    // METODO SET
+    public void setSueldo(double sueldo) {
+        this.sueldo = sueldo;
+    }
+    // METODO DE SOBRE SOBREESCRITURA
+    @Override
+    public String toString() {
+        return "Empleado {" + "nombre" + nombre + ", sueldo = " + sueldo + '}'; 
+    }
+}
