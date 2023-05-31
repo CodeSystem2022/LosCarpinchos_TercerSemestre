@@ -1,0 +1,21 @@
+
+package test;
+
+import accesodatos.IAccesoDatos;
+import accesodatos.ImplementacionMySQL;
+import accesodatos.ImplementacionOracle;
+
+public class TestInterfaces {
+    public static void main(String[] args) {
+        IAccesoDatos datos = new ImplementacionMySQL();
+        //datos.listar();
+        //imprimir(datos); recibe la referencia de la implementacion de MySQL
+        datos = new ImplementacionOracle();
+        //datos.listar();
+        imprimir(datos); // recibe la referencia de la implementacion de Oracle.
+    }
+    
+    public static void imprimir(IAccesoDatos datos) {
+        datos.listar();
+    }
+}
