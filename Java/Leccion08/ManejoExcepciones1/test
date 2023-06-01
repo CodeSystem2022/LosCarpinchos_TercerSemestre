@@ -1,0 +1,39 @@
+
+package test;
+
+//import aritmetica.Aritmetica; se puede importa tbn de la otra manera.
+import static aritmetica.Aritmetica.division;
+import excepciones.OperacionExcepcion;
+
+public class TestExcepciones {
+    public static void main(String[] args) {
+        int resultado = 0;
+        
+        try {
+          //resultado = Aritmetica.division(10, 0);
+            resultado = division(10, 0);
+        }
+        catch(OperacionExcepcion e) {
+            System.out.println("Ocurrió un error de tipo OperacionExcepcion");
+            System.out.println(e.getMessage());
+        }
+        catch(Exception e) {
+            System.out.println("Ocurrio un ERROR");
+            e.printStackTrace(System.out); // se conoce como la pila de excepciones.
+            System.out.println(e.getMessage());
+        } 
+        // Agregamos el finally y catch
+        finally {
+            System.out.println("Se revisó la división entre cero");
+        }
+        System.out.println("La variable de resultado tiene valor: " + resultado);
+    }
+}
+// Pruebas con RuntimeException (unchecked)
+//public class TestExcepciones {
+//  public static void main(String[] args) {
+        // Pruebas con RuntimeException (unchecked)
+//      int resultado = 0;
+//      resultado = division(10, 0); 
+//      System.out.println("La variable de resultado tiene valor: " + resultado);
+//}
