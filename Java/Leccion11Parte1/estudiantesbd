@@ -1,0 +1,12 @@
+-- JAVA CLASE 11 - Diferentes Querys en MySQL Parte 1 y 2
+-- Comenzamos con CRUD: CREATE(INSERTAR), READ(LEER), UPDATE(ACTUALIZAR), DELETE(ELIMINAR)
+-- Listar los estudiantes (READ)
+SELECT * FROM estudiantes2022;
+-- Insertar estudiante
+INSERT INTO estudiantes2022(nombre, apellido, telefono, email) VALUES ("Roberto", "Gomez", 1564678855, "robertogz@mail.com");
+-- Update (ACTUALIZAR)
+UPDATE estudiantes2022 SET apellido="Garcia" WHERE idestudiantes=0;
+-- Delete (ELIMINAR)
+DELETE FROM estudiantes2022 WHERE idestudiantes=3;
+-- Para modificar el idestudiantes y comience con 1
+ALTER TABLE estudiantes2022 AUTO_INCREMENT = 1;
